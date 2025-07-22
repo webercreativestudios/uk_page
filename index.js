@@ -27,17 +27,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-  fetch("https://ipapi.co/country/")
-    .then(res => res.text())
-    .then(country => {
-      if (country === "GB" && window.location.hostname === "webercreativestudios.com") {
-        window.location.href = "https://uk.webercreativestudios.com";
-      }
-    })
-    .catch(error => {
-      console.error("Geolocation fetch failed:", error);
-    });
-
 document.addEventListener("DOMContentLoaded", function () {
     const projectItems = document.querySelectorAll(".card-project");
 
