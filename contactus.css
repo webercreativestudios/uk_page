@@ -173,7 +173,7 @@
 
 
 :root {
-    --bar-w: 150px;    /* Width of the blue bar (adjustable) */
+    --bar-w: 145px;    /* Width of the blue bar (adjustable) */
     --bar-h: 4px;      /* Thickness of the blue bar */
     --bar-c: #4962bf;  /* Blue color for the bar */
     --strip-w: 14px;   /* Width of the white strips */
@@ -279,11 +279,11 @@
   .strip-underline::before {
     content: "";
     position: absolute;
-    left: 13%;
+    left: 12%;
     bottom: 0;
-    width: var(--bar-w);          /* Width of the blue bar */
-    height: var(--bar-h);         /* Thickness of the blue bar */
-    background: var(--bar-c);     /* Blue color */
+    width: var(--bar-w);        
+    height: var(--bar-h);         
+    background: var(--bar-c);    
     transform: translateX(-50%);  /* Center the blue bar under the text */
     overflow: hidden;             /* Hide the strips that go outside the bar */
   }
