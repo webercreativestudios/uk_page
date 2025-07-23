@@ -2,31 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://webercreativestudios.com/</loc>
+    <loc>https://uk.webercreativestudios.com/</loc>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://webercreativestudios.com/aboutus.html</loc>
+    <loc>https://uk.webercreativestudios.com/aboutus.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://webercreativestudios.com/web-development.html</loc>
+    <loc>https://uk.webercreativestudios.com/web-development.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://webercreativestudios.com/app-development.html</loc>
+    <loc>https://uk.webercreativestudios.com/app-development.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://webercreativestudios.com/design.html</loc>
+    <loc>https://uk.webercreativestudios.com/design.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://webercreativestudios.com/digital-marketing.html</loc>
+    <loc>https://uk.webercreativestudios.com/digital-marketing.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://webercreativestudios.com/contactus.html</loc>
+    <loc>https://uk.webercreativestudios.com/contactus.html</loc>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
+
